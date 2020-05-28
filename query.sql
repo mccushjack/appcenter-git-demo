@@ -25,4 +25,4 @@ where x1.QueryID = x2.QueryID
   ,ObjectTableName
   ,ObjectColumnName
   order by num_query DESC;
- 
+	-- end of query

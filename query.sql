@@ -1,4 +1,4 @@
---bar
+--name=bar
 Select top 100 
 x1.UserName
 ,x2.ObjectDatabaseName as ObjectDatabaseName
